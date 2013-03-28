@@ -1,6 +1,6 @@
 Resource Robotics
 =================
 
-We use robots to help you model the environment.
+Robot-powered services for geotechnical engineering
 
 Email: <rtvaughan@gmail.com>
