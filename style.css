@@ -1,16 +1,5 @@
 body {
 background-color: #999999;
 font-size:12px;
-font-family:Verdana, Arial, Helvetica, sans-serif;
-}
-
-div main {
-width: 80%;
-background-color:#FFFFFF;
-margin-top: 50px;
-margin-bottom: 50px;
-margin-left: auto;
-margin-right: auto;
-padding: 0px;
-border: thin solid #000000;
+font-family: Helvetica, sans-serif;
 }
