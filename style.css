@@ -2,13 +2,16 @@ body {
 background-color: #f5f4eb;
 color: #332;
 font-size:12px;
-font-family: 'Titillium Web', sans-serif;
+/* font-family: 'Titillium Web', sans-serif; */
 text-align: center;
+font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+font-weight: 300;
 }
 
 h1 {
   font-size: 42px;
   margin-bottom: 0em;
+  
 }
 
 h2 {
